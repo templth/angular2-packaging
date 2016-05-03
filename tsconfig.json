@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "declaration": false,
+    "stripInternal": true,
+    "module": "system",
+    "moduleResolution": "node",
+    "noEmitOnError": false,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
