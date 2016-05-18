@@ -1,6 +1,5 @@
 {
   "ambientDependencies": {
-    "es6-promise": "github:DefinitelyTyped/DefinitelyTyped/es6-promise/es6-promise.d.ts#71b4d6f6087f49891a01c937d2a86eee6f6c9b3a",
     "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd"
   }
 }
