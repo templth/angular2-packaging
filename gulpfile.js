@@ -17,6 +17,7 @@ gulp.task('app-bundle', function () {
 
   var tsResult = gulp.src([
     'node_modules/angular2/typings/browser.d.ts',
+    'typings/main/ambient/firebase/firebase.d.ts',
     'app/**/*.ts'
   ])
 	.pipe(ts(tsProject));
